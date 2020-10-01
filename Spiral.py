@@ -1,7 +1,7 @@
 import turtle
 
 turtle.speed(0)
-turtle.bgcolor("black")
+turtle.bgcolor("Yellow")
 
 for i in range(10) :
         for colours in ["red", "magenta", "blue", "cyan", "yellow", "white"] :
